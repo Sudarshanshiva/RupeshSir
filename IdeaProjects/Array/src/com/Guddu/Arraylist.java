@@ -21,7 +21,7 @@ public class Arraylist {
 //       }
         for(String naam:list){
             if(naam.contains("e")){
-                System.out.println(naam);
+                System.out.println("Enter name: "naam);
             }
         }
 
